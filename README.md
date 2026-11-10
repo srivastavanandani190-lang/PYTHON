@@ -11,8 +11,6 @@
 ---
 
 ## 🧠 About This Repository  
-Hey there! 👋 Welcome to my *Python, Data Analysis, AI & ML playground* built with the power of *Python 🐍*.
-
 Here you'll find:  
 - 💻 Hands-on Python programming examples and coding exercises  
 - 🧩 Core Python concepts, data structures, functions, and OOP  
