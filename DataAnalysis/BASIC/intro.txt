@@ -1,0 +1,22 @@
+Data Analysis is the process of collecting, cleaning, organizing, transforming, and examining 
+raw data to extract meaningful information, identify patterns, discover trends, and make better
+decisions. It helps convert unorganized data into useful insights that can solve real-world 
+problems. Data analysis is widely used in businesses, healthcare, banking, education, marketing,
+sports, and scientific research. It involves several steps, including data collection, 
+data cleaning, data preprocessing, exploratory data analysis (EDA), data visualization, 
+and interpretation of results. Python is one of the most popular programming languages 
+for data analysis because it provides powerful libraries such as NumPy for numerical 
+calculations, Pandas for data manipulation and analysis, Matplotlib and Seaborn for data 
+visualization, and Plotly for interactive charts. Data can be collected from CSV files, 
+Excel sheets, databases, APIs, and other sources. During data cleaning, missing values, 
+duplicate records, incorrect data types, and inconsistent information are handled to improve 
+data quality. Exploratory Data Analysis (EDA) is performed to understand the structure and 
+characteristics of data using statistical methods such as mean, median, mode, standard deviation,
+and correlation. Data visualization represents information through graphs, charts, histograms, 
+bar charts, pie charts, and scatter plots, making complex information easier to understand. 
+Finally, the results are interpreted to identify useful patterns and support decision-making. 
+The main types of data analysis are Descriptive Analysis (what happened), Diagnostic Analysis 
+(why it happened), Predictive Analysis (what may happen), and Prescriptive Analysis 
+(what action should be taken). Overall, data analysis plays an important role in transforming raw 
+data into meaningful knowledge, improving efficiency, reducing risks, and supporting data-driven decisions.
+ 

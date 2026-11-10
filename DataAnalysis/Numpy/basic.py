@@ -1,10 +1,21 @@
 import numpy as np
 print(np.__version__)
+
 arr_1d=np.array([1,2,3,4])
 print("One D array:",arr_1d)
+print(type(arr_1d))
+
+arrt_1d=np.array((1,2,3,4))
+print("One D array:",arrt_1d)
+print(type(arrt_1d))
+
 arr_2d=np.array([[1,2,3],[4,5,6],[12,13,45],[4,8,9]])
 print("Two D array:",arr_2d)
 print(arr_2d[0,2])#[0][2]
+
+
+
+
 #numpy.random.rand()->0to1(float)
 x=np.random.rand(3,4)
 print(x)
